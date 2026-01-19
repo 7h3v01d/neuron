@@ -25,7 +25,50 @@ A high-fidelity neural simulation framework designed to model biological brain a
 
 ## 🔧 Installation & Setup
 
-1. **Clone the repository**:
+## 1. **Clone the repository**:
    ```bash
    git clone [https://github.com/your-username/SIMON-Digital-Brain.git](https://github.com/your-username/SIMON-Digital-Brain.git)
+```
+```bash
    cd SIMON-Digital-Brain
+```
+Create a virtual environment:
+
+```Bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+Install dependencies:
+```Bash
+pip install -r requirements.txt
+```
+---
+
+### 📈 Usage
+Run a Single Neuron Simulation
+To see how a Pyramidal neuron responds to sustained input and how its weights adapt via STDP:
+
+```Bash
+python -m src.visualize_neuron
+```
+Run Network Simulation
+To observe the interaction between excitatory and inhibitory neurons in a recurrent loop:
+
+```Bash
+python -m src.visualize_network
+```
+
+
+🔬 Research Objectives
+This project aims to replicate specific biological benchmarks:
+
+Inhibitory Balance: Targeting ~20 inhibitory spikes for interneurons (Neuron 9) over a 40-step cycle.
+
+Rapid Response: Optimizing Neurons 2, 3, and 5 for early-onset spiking (within 4-5 steps).
+
+Regional Accuracy: Modeling the unique thresholding and scaling of brainstem motor neurons and cerebellar purkinje cells.
+
+📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Inspired by research into digital brain architectures and human scientific discovery.
