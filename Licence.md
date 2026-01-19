@@ -1,7 +1,7 @@
 Restricted Collaboration Licence
 Version 1.0
 
-Copyright (c) [YEAR] [YOUR NAME]
+Copyright (c) [2025] [Leon Priest]
 
 This project is provided to approved collaborators for the sole purpose of
 contributing to this repository under the direction of the project owner.
@@ -47,3 +47,4 @@ contributing to this repository under the direction of the project owner.
 
 By accessing or contributing to this project, you agree to the terms of this
 Restricted Collaboration Licence.
+
