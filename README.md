@@ -68,3 +68,8 @@ This project aims to replicate specific biological benchmarks:
 - Regional Accuracy: Modeling the unique thresholding and scaling of brainstem motor neurons and cerebellar purkinje cells.
 
 *Inspired by research into digital brain architectures and human scientific discovery.*
+
+## License
+
+Restricted Collaboration Licence (No Forking / No External Use).
+See LICENSE for details.
