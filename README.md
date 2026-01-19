@@ -67,8 +67,4 @@ This project aims to replicate specific biological benchmarks:
 - Rapid Response: Optimizing Neurons 2, 3, and 5 for early-onset spiking (within 4-5 steps).
 - Regional Accuracy: Modeling the unique thresholding and scaling of brainstem motor neurons and cerebellar purkinje cells.
 
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 *Inspired by research into digital brain architectures and human scientific discovery.*
