@@ -27,10 +27,10 @@ A high-fidelity neural simulation framework designed to model biological brain a
 
 ### 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/your-username/SIMON-Digital-Brain.git](https://github.com/your-username/SIMON-Digital-Brain.git)
+   git clone [neuron.git](https://github.com/7h3v01d/neuron.git)
 ```
 ```bash
-   cd SIMON-Digital-Brain
+   cd neuron
 ```
 ### 2. Create a virtual environment:
 
