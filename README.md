@@ -1,6 +1,22 @@
 # Neuron
 ### Digital Brain Simulation
 
+⚠️ **LICENSE & USAGE NOTICE — READ FIRST**
+
+This repository is **source-available for private technical evaluation and testing only**.
+
+- ❌ No commercial use  
+- ❌ No production use  
+- ❌ No academic, institutional, or government use  
+- ❌ No research, benchmarking, or publication  
+- ❌ No redistribution, sublicensing, or derivative works  
+- ❌ No independent development based on this code  
+
+All rights remain exclusively with the author.  
+Use of this software constitutes acceptance of the terms defined in **LICENSE.txt**.
+
+---
+
 A high-fidelity neural simulation framework designed to model biological brain activity with 85-90%+ accuracy. Neuron implements a versatile `GeneralizedNeuron` model capable of simulating diverse neural types and regional behaviors (Cortex, Cerebellum, Brainstem).
 
 ---
