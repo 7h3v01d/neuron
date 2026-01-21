@@ -1,50 +1,131 @@
-Restricted Collaboration Licence
-Version 1.0
+neuron
+Private Evaluation & Testing License (PETL) v1.0
 
-Copyright (c) [2025] [Leon Priest]
+CANONICAL TEXT
 
-This project is provided to approved collaborators for the sole purpose of
-contributing to this repository under the direction of the project owner.
+Copyright © 2026
+All rights reserved.
 
-1. Permissions
-   - Approved collaborators may:
-       • View the source code within this repository.
-       • Submit contributions (e.g., pull requests, patches, comments).
-       • Use the code only as necessary to contribute to this project.
+----------------------------------------------------------------------
+IMPORTANT — READ CAREFULLY
+----------------------------------------------------------------------
 
-2. Restrictions
-   - Collaborators may NOT:
-       • Fork this repository, publicly or privately.
-       • Copy, clone, download, or store the project outside this repository.
-       • Redistribute, publish, or share any part of the project.
-       • Use the project or its code for any personal, academic, or commercial
-         purpose outside this repository.
-       • Create derivative works outside this repository.
+This software is NOT open-source.
 
-3. Ownership
-   - All rights to the project and all contributions remain exclusively with
-     the project owner.
-   - By contributing, collaborators assign the project owner a perpetual,
-     worldwide, royalty-free licence to use, modify, and incorporate their
-     contributions.
-   - Collaborators retain no ownership or reuse rights to their contributions.
+This software is made available solely for private technical evaluation
+and testing purposes, including code review, architectural assessment,
+and non-production experimentation by the individual recipient.
 
-4. Confidentiality
-   - All project materials are confidential unless explicitly stated otherwise.
-   - Collaborators must not disclose, share, or discuss the project with
-     third parties without written permission from the project owner.
+Accessing, cloning, viewing, or using this software constitutes
+acceptance of the terms of this license.
 
-5. Access & Termination
-   - Collaboration access is granted at the project owner’s discretion.
-   - The project owner may revoke access at any time, for any reason.
-   - Upon revocation, collaborators must cease all use of project materials
-     and delete any local copies.
+----------------------------------------------------------------------
+PERMITTED USE
+----------------------------------------------------------------------
 
-6. Warranty
-   - The project is provided “as is” without warranty of any kind.
-   - The project owner is not liable for any damages arising from use of the
-     project.
+You are permitted to:
 
-By accessing or contributing to this project, you agree to the terms of this
-Restricted Collaboration Licence.
+• View the source code
+• Run the software locally for private evaluation and testing
+• Inspect architecture, structure, and implementation techniques
+• Perform non-production experiments solely for personal assessment
+• Report bugs or provide feedback to the author
+• Submit suggested changes or pull requests for review
+
+All permitted use must be:
+
+• Non-commercial
+• Non-production
+• Non-academic
+• Non-institutional
+• Non-governmental
+• Non-research-oriented
+
+----------------------------------------------------------------------
+PROHIBITED USE
+----------------------------------------------------------------------
+
+The following activities are strictly prohibited without prior written
+permission from the copyright holder:
+
+• Commercial use of any kind
+• Production deployment or operational use
+• Academic, institutional, or government use
+• Research use of any form, including experiments, studies, trials,
+  benchmarking, evaluation reports, or comparative analysis
+• Publication or disclosure of results, metrics, screenshots, reviews,
+  analyses, or derived findings
+• Redistribution, sublicensing, or relicensing
+• Repackaging or bundling with other software or services
+• Creation of derivative works
+• Independent development based on this software
+• Copying or reimplementation of algorithms, architecture, structure,
+  or implementation patterns
+• Use as training data or reference material for machine learning or
+  artificial intelligence systems
+• Reverse engineering for the purpose of creating competitive,
+  substitute, or derivative products
+
+----------------------------------------------------------------------
+CONTRIBUTIONS
+----------------------------------------------------------------------
+
+You may submit feedback, issues, suggestions, or pull requests.
+
+However:
+
+• Submission of contributions does not grant any license, ownership,
+  or usage rights
+• All intellectual property remains exclusively with the author
+• The author retains sole discretion to accept, modify, or reject any
+  contribution
+• Contributors receive no rights to reuse, redistribute, or repurpose
+  any portion of the software or its concepts
+
+----------------------------------------------------------------------
+INTELLECTUAL PROPERTY
+----------------------------------------------------------------------
+
+All intellectual property rights, including but not limited to
+copyright, design, architecture, algorithms, documentation, and
+implementation, remain the exclusive property of the author.
+
+No rights are granted except those expressly stated in this license.
+
+----------------------------------------------------------------------
+NO WARRANTY
+----------------------------------------------------------------------
+
+This software is provided “AS IS”, without warranty of any kind, express
+or implied, including but not limited to warranties of merchantability,
+fitness for a particular purpose, accuracy, reliability, or security.
+
+----------------------------------------------------------------------
+LIMITATION OF LIABILITY
+----------------------------------------------------------------------
+
+In no event shall the author be liable for any claim, damages, or other
+liability, whether in an action of contract, tort, or otherwise,
+arising from, out of, or in connection with the software or its use.
+
+----------------------------------------------------------------------
+TERMINATION
+----------------------------------------------------------------------
+
+Any violation of this license immediately terminates all permissions
+granted herein.
+
+Upon termination, you must cease all use of the software and delete
+all copies in your possession or control.
+
+----------------------------------------------------------------------
+CONTACT & PERMISSIONS
+----------------------------------------------------------------------
+
+Requests for permission, alternative licensing, or commercial use must
+be made directly to the author and require explicit written approval.
+
+----------------------------------------------------------------------
+END OF PETL v1.0 — CANONICAL TEXT
+----------------------------------------------------------------------
 
