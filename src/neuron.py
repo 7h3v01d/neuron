@@ -73,7 +73,8 @@ class GeneralizedNeuron:
             self.threshold = -65.0
         elif self.neuron_type == "motor":
             if self.region == "brainstem":
-                self.output_scaling = 2.0 * 1.5
+                # Change 2: corrected from 2.0 * 1.5 (= 3.0); 2.0 is the intended scaling
+                self.output_scaling = 2.0
 
         if self.region == "cortex" and self.neuron_type == "pyramidal":
             self.bias = 180.0
@@ -95,6 +96,16 @@ class GeneralizedNeuron:
         self.adapt_behavior(inputs)
         self.refractory_time = max(0, self.refractory_time - self.time_step)
         self.adaptation_current *= np.exp(-self.adaptation_decay * self.time_step)
+
+        # Change 1: LIF membrane integration
+        # Compute synaptic current from proximal and distal dendritic compartments
+        proximal_input = np.dot(self.proximal_weights, inputs[:len(self.proximal_weights)])
+        distal_input = np.dot(self.distal_weights, inputs[len(self.proximal_weights):]) * self.distal_attenuation
+        I_syn = proximal_input + distal_input + self.bias - self.adaptation_current
+        # Leaky integrate: V moves toward rest when no input, toward threshold when driven
+        dV = self.time_step * (I_syn - self.leak_conductance * (self.membrane_potential - self.rest_potential))
+        self.membrane_potential = max(self.min_potential, self.membrane_potential + dV)
+
         if self.refractory_time <= 0 and self.membrane_potential >= self.threshold:
             self.spike = 1
             self.membrane_potential = self.reset_potential
@@ -124,13 +135,17 @@ class GeneralizedNeuron:
                     self.threshold = max(-70.0, self.threshold - 2.0)
                 else:
                     self.threshold = min(self.threshold + 2.0, self.base_threshold + 10.0)
-        if self.neuron_type == "interneuron":
-            if np.mean(inputs) > 0.5:
-                self.is_excitatory = False
-            else:
-                self.is_excitatory = True
+        # Interneurons are always inhibitory regardless of input level.
+        # The original toggle (is_excitatory = True when mean input < 0.5) violated
+        # the integration contract and the test_adaptive_behavior assertion.
 
-    def update_weights(self, inputs):
+    def update_weights(self, inputs, dopamine_gate: float = 1.0):
+        """Update synaptic weights via STDP, gated by dopamine signal.
+
+        dopamine_gate: 1.0 = normal learning, >1.0 = potentiate strongly (reward),
+                       <0.0 = suppress potentiation (punishment).
+        The Basal Ganglia injects DopamineSignal.td_error here via the SimonKernel.
+        """
         current_time = len(self.input_history) * self.time_step
         for i in range(self.num_inputs):
             delta_w = 0.0
@@ -141,7 +156,8 @@ class GeneralizedNeuron:
                         delta_w += self.stdp_A_plus * np.exp(-dt / self.stdp_window)
                     elif dt < 0 and abs(dt) <= self.stdp_window:
                         delta_w -= self.stdp_A_minus * np.exp(dt / self.stdp_window)
-            new_weight = np.clip(self.weights[i] + delta_w, self.min_weight, self.max_weight)
+            # Change 3: scale weight update by dopamine gate before clipping
+            new_weight = np.clip(self.weights[i] + delta_w * dopamine_gate, self.min_weight, self.max_weight)
             self.weights[i] = new_weight
             if i < len(self.proximal_weights):
                 self.proximal_weights[i] = new_weight

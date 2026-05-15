@@ -33,7 +33,7 @@ class TestGeneralizedNeuron(unittest.TestCase):
                 elif neuron_type == "sensory":
                     self.assertEqual(state["threshold"], -65.0)
                 elif neuron_type == "motor" and region == "brainstem":
-                    self.assertEqual(state["output_scaling"], 2.0 * 1.5)  # Updated to match neuron.py's 3.0
+                    self.assertEqual(state["output_scaling"], 2.0)  # Corrected from 2.0 * 1.5
     
     def test_spiking_dynamics(self):
         """Test spiking behavior."""

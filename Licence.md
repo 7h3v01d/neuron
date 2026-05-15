@@ -1,4 +1,4 @@
-# Neuron
+neuron
 
 Private Evaluation & Testing License (PETL) v1.0
 
@@ -129,6 +129,5 @@ be made directly to the author and require explicit written approval.
 ----------------------------------------------------------------------
 END OF PETL v1.0 — CANONICAL TEXT
 ----------------------------------------------------------------------
-
 
 

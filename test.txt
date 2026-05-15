@@ -1,0 +1,479 @@
+
+(venv) E:\S.I.M.O.N>python network.py
+Neuron 0: Current=8334.89, Potential=-80.00, Spike=1.0
+Neuron 1: Current=5160.49, Potential=-85.00, Spike=0.0
+Neuron 2: Current=-1482.71, Potential=-85.00, Spike=0.0
+Neuron 3: Current=12626.40, Potential=-85.00, Spike=0.0
+Neuron 4: Current=643.92, Potential=-80.00, Spike=1.0
+Neuron 5: Current=3008.01, Potential=-85.00, Spike=0.0
+Neuron 6: Current=7054.79, Potential=-80.00, Spike=1.0
+Neuron 7: Current=18091.20, Potential=-80.00, Spike=1.0
+Neuron 8: Current=-335.96, Potential=-85.00, Spike=0.0
+Neuron 9: Current=2774.31, Potential=-85.00, Spike=0.0
+Step 0: [1. 0. 0. 0. 1. 0. 1. 1. 0. 0.]
+Neuron 0: Current=2840.47, Potential=-80.00, Spike=1.0
+Neuron 1: Current=5325.83, Potential=-85.00, Spike=0.0
+Neuron 2: Current=1525.26, Potential=-85.00, Spike=0.0
+Neuron 3: Current=12434.42, Potential=-80.00, Spike=1.0
+Neuron 4: Current=-2061.55, Potential=-85.00, Spike=1.0
+Neuron 5: Current=-1992.07, Potential=-85.00, Spike=0.0
+Neuron 6: Current=-445.87, Potential=-85.00, Spike=1.0
+Neuron 7: Current=12954.42, Potential=-85.00, Spike=1.0
+Neuron 8: Current=-169.87, Potential=-85.00, Spike=0.0
+Neuron 9: Current=2854.54, Potential=-85.00, Spike=0.0
+Step 1: [1. 0. 0. 1. 1. 0. 1. 1. 0. 0.]
+Neuron 0: Current=5343.85, Potential=-80.00, Spike=1.0
+Neuron 1: Current=3910.48, Potential=-80.00, Spike=1.0
+Neuron 2: Current=-295.04, Potential=-85.00, Spike=0.0
+Neuron 3: Current=2857.97, Potential=-85.00, Spike=1.0
+Neuron 4: Current=7333.80, Potential=-80.00, Spike=1.0
+Neuron 5: Current=4070.73, Potential=-85.00, Spike=0.0
+Neuron 6: Current=7982.74, Potential=-85.00, Spike=1.0
+Neuron 7: Current=6727.89, Potential=-80.00, Spike=1.0
+Neuron 8: Current=1443.48, Potential=-85.00, Spike=0.0
+Neuron 9: Current=1570.84, Potential=-85.00, Spike=0.0
+Step 2: [1. 1. 0. 1. 1. 0. 1. 1. 0. 0.]
+Neuron 0: Current=3281.85, Potential=-85.00, Spike=1.0
+Neuron 1: Current=9542.48, Potential=-85.00, Spike=1.0
+Neuron 2: Current=3748.14, Potential=-85.00, Spike=0.0
+Neuron 3: Current=5434.85, Potential=-85.00, Spike=1.0
+Neuron 4: Current=14795.02, Potential=-80.00, Spike=1.0
+Neuron 5: Current=1055.93, Potential=-85.00, Spike=0.0
+Neuron 6: Current=7314.15, Potential=-85.00, Spike=1.0
+Neuron 7: Current=6851.28, Potential=-80.00, Spike=1.0
+Neuron 8: Current=1876.52, Potential=-85.00, Spike=0.0
+Neuron 9: Current=1849.53, Potential=-85.00, Spike=0.0
+Step 3: [1. 1. 0. 1. 1. 0. 1. 1. 0. 0.]
+Neuron 0: Current=15950.99, Potential=-80.00, Spike=1.0
+Neuron 1: Current=12214.27, Potential=-85.00, Spike=1.0
+Neuron 2: Current=19256.01, Potential=-80.00, Spike=1.0
+Neuron 3: Current=20846.01, Potential=-80.00, Spike=1.0
+Neuron 4: Current=11973.05, Potential=-80.00, Spike=1.0
+Neuron 5: Current=13582.42, Potential=-80.00, Spike=1.0
+Neuron 6: Current=13353.62, Potential=-85.00, Spike=1.0
+Neuron 7: Current=17730.66, Potential=-80.00, Spike=1.0
+Neuron 8: Current=-4660.14, Potential=-80.00, Spike=1.0
+Neuron 9: Current=-2153.34, Potential=-80.00, Spike=1.0
+Step 4: [1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+Neuron 0: Current=19038.76, Potential=-80.00, Spike=1.0
+Neuron 1: Current=24308.40, Potential=-85.00, Spike=1.0
+Neuron 2: Current=22630.97, Potential=-80.00, Spike=1.0
+Neuron 3: Current=18769.71, Potential=-80.00, Spike=1.0
+Neuron 4: Current=27351.47, Potential=-80.00, Spike=1.0
+Neuron 5: Current=25606.67, Potential=-80.00, Spike=1.0
+Neuron 6: Current=24033.93, Potential=-85.00, Spike=1.0
+Neuron 7: Current=20196.48, Potential=-80.00, Spike=1.0
+Neuron 8: Current=-3597.70, Potential=-80.00, Spike=1.0
+Neuron 9: Current=-5280.58, Potential=-80.00, Spike=1.0
+Step 5: [1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+Neuron 0: Current=16830.02, Potential=-80.00, Spike=1.0
+Neuron 1: Current=14364.91, Potential=-85.00, Spike=1.0
+Neuron 2: Current=10170.73, Potential=-85.00, Spike=1.0
+Neuron 3: Current=15732.69, Potential=-80.00, Spike=1.0
+Neuron 4: Current=19005.05, Potential=-80.00, Spike=1.0
+Neuron 5: Current=14820.85, Potential=-85.00, Spike=1.0
+Neuron 6: Current=20230.37, Potential=-85.00, Spike=1.0
+Neuron 7: Current=20584.87, Potential=-80.00, Spike=1.0
+Neuron 8: Current=-393.19, Potential=-85.00, Spike=-1.0
+Neuron 9: Current=692.76, Potential=-85.00, Spike=-1.0
+Step 6: [ 1.  1.  1.  1.  1.  1.  1.  1. -1. -1.]
+Neuron 0: Current=1974.23, Potential=-80.00, Spike=1.0
+Neuron 1: Current=-14849.61, Potential=-80.00, Spike=1.0
+Neuron 2: Current=-7309.52, Potential=-85.00, Spike=1.0
+Neuron 3: Current=-5029.99, Potential=-85.00, Spike=1.0
+Neuron 4: Current=-3948.29, Potential=-80.00, Spike=1.0
+Neuron 5: Current=-9077.26, Potential=-85.00, Spike=1.0
+Neuron 6: Current=205.98, Potential=-85.00, Spike=1.0
+Neuron 7: Current=-4875.98, Potential=-80.00, Spike=1.0
+Neuron 8: Current=3066.36, Potential=-85.00, Spike=1.0
+Neuron 9: Current=6100.47, Potential=-85.00, Spike=-1.0
+Step 7: [ 1.  1.  1.  1.  1.  1.  1.  1.  1. -1.]
+Neuron 0: Current=-4509.52, Potential=-85.00, Spike=1.0
+Neuron 1: Current=22879.83, Potential=-85.00, Spike=1.0
+Neuron 2: Current=5070.13, Potential=-80.00, Spike=1.0
+Neuron 3: Current=10244.64, Potential=-80.00, Spike=1.0
+Neuron 4: Current=4051.97, Potential=-80.00, Spike=1.0
+Neuron 5: Current=7253.81, Potential=-80.00, Spike=1.0
+Neuron 6: Current=-2364.40, Potential=-80.00, Spike=1.0
+Neuron 7: Current=12518.95, Potential=-80.00, Spike=1.0
+Neuron 8: Current=36.59, Potential=-80.00, Spike=-1.0
+Neuron 9: Current=-2872.20, Potential=-80.00, Spike=1.0
+Step 8: [ 1.  1.  1.  1.  1.  1.  1.  1. -1.  1.]
+Neuron 0: Current=-3951.31, Potential=-85.00, Spike=1.0
+Neuron 1: Current=9341.07, Potential=-69.14, Spike=1.0
+Neuron 2: Current=708.58, Potential=-80.00, Spike=1.0
+Neuron 3: Current=33.24, Potential=-80.00, Spike=1.0
+Neuron 4: Current=7822.43, Potential=-80.00, Spike=1.0
+Neuron 5: Current=-353.13, Potential=-80.00, Spike=1.0
+Neuron 6: Current=-239.19, Potential=-80.00, Spike=1.0
+Neuron 7: Current=890.87, Potential=-80.00, Spike=1.0
+Neuron 8: Current=2606.38, Potential=-80.00, Spike=-1.0
+Neuron 9: Current=640.27, Potential=-85.00, Spike=-1.0
+Step 9: [ 1.  1.  1.  1.  1.  1.  1.  1. -1. -1.]
+Neuron 0: Current=1390.14, Potential=-80.00, Spike=1.0
+Neuron 1: Current=4713.55, Potential=-80.00, Spike=1.0
+Neuron 2: Current=1408.31, Potential=-85.00, Spike=1.0
+Neuron 3: Current=-1398.64, Potential=-85.00, Spike=1.0
+Neuron 4: Current=6106.99, Potential=-80.00, Spike=1.0
+Neuron 5: Current=5499.50, Potential=-80.00, Spike=1.0
+Neuron 6: Current=4533.65, Potential=-80.00, Spike=1.0
+Neuron 7: Current=501.21, Potential=-80.00, Spike=1.0
+Neuron 8: Current=939.14, Potential=-80.00, Spike=1.0
+Neuron 9: Current=-973.03, Potential=-85.00, Spike=-1.0
+Step 10: [ 1.  1.  1.  1.  1.  1.  1.  1.  1. -1.]
+Neuron 0: Current=6548.82, Potential=-80.00, Spike=1.0
+Neuron 1: Current=5446.51, Potential=-80.00, Spike=1.0
+Neuron 2: Current=9319.12, Potential=-80.00, Spike=1.0
+Neuron 3: Current=5617.62, Potential=-80.00, Spike=1.0
+Neuron 4: Current=9083.83, Potential=-80.00, Spike=1.0
+Neuron 5: Current=7029.78, Potential=-80.00, Spike=1.0
+Neuron 6: Current=7268.21, Potential=-80.00, Spike=1.0
+Neuron 7: Current=3846.11, Potential=-80.00, Spike=1.0
+Neuron 8: Current=-821.62, Potential=-80.00, Spike=1.0
+Neuron 9: Current=-947.65, Potential=-80.00, Spike=-1.0
+Step 11: [ 1.  1.  1.  1.  1.  1.  1.  1.  1. -1.]
+Neuron 0: Current=-2758.29, Potential=-85.00, Spike=1.0
+Neuron 1: Current=1268.45, Potential=-80.00, Spike=1.0
+Neuron 2: Current=-2112.40, Potential=-85.00, Spike=1.0
+Neuron 3: Current=202.91, Potential=-80.00, Spike=1.0
+Neuron 4: Current=-1864.38, Potential=-85.00, Spike=1.0
+Neuron 5: Current=-2738.38, Potential=-85.00, Spike=1.0
+Neuron 6: Current=-3012.46, Potential=-85.00, Spike=1.0
+Neuron 7: Current=553.94, Potential=-80.00, Spike=1.0
+Neuron 8: Current=2004.92, Potential=-80.00, Spike=-1.0
+Neuron 9: Current=2019.36, Potential=-80.00, Spike=1.0
+Step 12: [ 1.  1.  1.  1.  1.  1.  1.  1. -1.  1.]
+Neuron 0: Current=8141.84, Potential=-80.00, Spike=1.0
+Neuron 1: Current=10052.03, Potential=-80.00, Spike=1.0
+Neuron 2: Current=6085.41, Potential=-80.00, Spike=1.0
+Neuron 3: Current=1850.17, Potential=-80.00, Spike=1.0
+Neuron 4: Current=16906.24, Potential=-80.00, Spike=1.0
+Neuron 5: Current=12615.66, Potential=-80.00, Spike=1.0
+Neuron 6: Current=14270.04, Potential=-80.00, Spike=1.0
+Neuron 7: Current=5542.26, Potential=-80.00, Spike=1.0
+Neuron 8: Current=783.09, Potential=-80.00, Spike=-1.0
+Neuron 9: Current=-1641.68, Potential=-85.00, Spike=-1.0
+Step 13: [ 1.  1.  1.  1.  1.  1.  1.  1. -1. -1.]
+Neuron 0: Current=9818.08, Potential=-80.00, Spike=1.0
+Neuron 1: Current=8448.98, Potential=-80.00, Spike=1.0
+Neuron 2: Current=6983.34, Potential=-80.00, Spike=1.0
+Neuron 3: Current=11950.48, Potential=-80.00, Spike=1.0
+Neuron 4: Current=3688.78, Potential=-80.00, Spike=1.0
+Neuron 5: Current=11028.41, Potential=-80.00, Spike=1.0
+Neuron 6: Current=8860.60, Potential=-80.00, Spike=1.0
+Neuron 7: Current=14200.41, Potential=-80.00, Spike=1.0
+Neuron 8: Current=-2004.07, Potential=-85.00, Spike=1.0
+Neuron 9: Current=-1076.90, Potential=-85.00, Spike=1.0
+Step 14: [1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+Neuron 0: Current=-151.52, Potential=-80.00, Spike=1.0
+Neuron 1: Current=-4581.11, Potential=-80.00, Spike=1.0
+Neuron 2: Current=-4528.96, Potential=-85.00, Spike=1.0
+Neuron 3: Current=-2766.26, Potential=-85.00, Spike=1.0
+Neuron 4: Current=6115.89, Potential=-80.00, Spike=1.0
+Neuron 5: Current=-8784.14, Potential=-85.00, Spike=1.0
+Neuron 6: Current=1711.02, Potential=-80.00, Spike=1.0
+Neuron 7: Current=-2250.88, Potential=-85.00, Spike=1.0
+Neuron 8: Current=4766.25, Potential=-80.00, Spike=1.0
+Neuron 9: Current=6319.49, Potential=-80.00, Spike=1.0
+Step 15: [1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+Neuron 0: Current=25445.47, Potential=-80.00, Spike=1.0
+Neuron 1: Current=18717.36, Potential=-80.00, Spike=1.0
+Neuron 2: Current=27170.44, Potential=-80.00, Spike=1.0
+Neuron 3: Current=31514.08, Potential=-80.00, Spike=1.0
+Neuron 4: Current=24877.07, Potential=-80.00, Spike=1.0
+Neuron 5: Current=17360.31, Potential=-80.00, Spike=1.0
+Neuron 6: Current=23788.16, Potential=-80.00, Spike=1.0
+Neuron 7: Current=28311.46, Potential=-80.00, Spike=1.0
+Neuron 8: Current=-4981.65, Potential=-80.00, Spike=1.0
+Neuron 9: Current=-480.63, Potential=-80.00, Spike=1.0
+Step 16: [1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+Neuron 0: Current=-2778.98, Potential=-85.00, Spike=1.0
+Neuron 1: Current=10572.04, Potential=-80.00, Spike=1.0
+Neuron 2: Current=-472.59, Potential=-85.00, Spike=1.0
+Neuron 3: Current=5332.75, Potential=-80.00, Spike=1.0
+Neuron 4: Current=6599.85, Potential=-80.00, Spike=1.0
+Neuron 5: Current=-3004.47, Potential=-85.00, Spike=1.0
+Neuron 6: Current=-493.80, Potential=-80.00, Spike=1.0
+Neuron 7: Current=7093.31, Potential=-80.00, Spike=1.0
+Neuron 8: Current=3261.36, Potential=-80.00, Spike=-1.0
+Neuron 9: Current=3109.54, Potential=-80.00, Spike=1.0
+Step 17: [ 1.  1.  1.  1.  1.  1.  1.  1. -1.  1.]
+Neuron 0: Current=5495.30, Potential=-80.00, Spike=1.0
+Neuron 1: Current=-4694.10, Potential=-85.00, Spike=1.0
+Neuron 2: Current=4912.72, Potential=-80.00, Spike=1.0
+Neuron 3: Current=5037.64, Potential=-80.00, Spike=1.0
+Neuron 4: Current=4368.69, Potential=-80.00, Spike=1.0
+Neuron 5: Current=-4412.40, Potential=-85.00, Spike=1.0
+Neuron 6: Current=3110.83, Potential=-80.00, Spike=1.0
+Neuron 7: Current=1106.30, Potential=-80.00, Spike=1.0
+Neuron 8: Current=763.73, Potential=-80.00, Spike=-1.0
+Neuron 9: Current=3999.40, Potential=-80.00, Spike=1.0
+Step 18: [ 1.  1.  1.  1.  1.  1.  1.  1. -1.  1.]
+Neuron 0: Current=7270.58, Potential=-80.00, Spike=1.0
+Neuron 1: Current=18542.96, Potential=-80.00, Spike=1.0
+Neuron 2: Current=10705.26, Potential=-80.00, Spike=1.0
+Neuron 3: Current=15990.00, Potential=-80.00, Spike=1.0
+Neuron 4: Current=6874.28, Potential=-80.00, Spike=1.0
+Neuron 5: Current=13591.50, Potential=-80.00, Spike=1.0
+Neuron 6: Current=7395.24, Potential=-80.00, Spike=1.0
+Neuron 7: Current=17928.26, Potential=-80.00, Spike=1.0
+Neuron 8: Current=-2209.70, Potential=-85.00, Spike=1.0
+Neuron 9: Current=-2717.52, Potential=-85.00, Spike=1.0
+Step 19: [1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+Neuron 0: Current=873.06, Potential=-80.00, Spike=1.0
+Neuron 1: Current=15409.50, Potential=-80.00, Spike=1.0
+Neuron 2: Current=-1684.66, Potential=-85.00, Spike=1.0
+Neuron 3: Current=8938.39, Potential=-80.00, Spike=1.0
+Neuron 4: Current=5630.80, Potential=-80.00, Spike=1.0
+Neuron 5: Current=4247.33, Potential=-80.00, Spike=1.0
+Neuron 6: Current=3818.86, Potential=-80.00, Spike=1.0
+Neuron 7: Current=15305.47, Potential=-80.00, Spike=1.0
+Neuron 8: Current=2597.09, Potential=-80.00, Spike=1.0
+Neuron 9: Current=1954.70, Potential=-80.00, Spike=-1.0
+Step 20: [ 1.  1.  1.  1.  1.  1.  1.  1.  1. -1.]
+Neuron 0: Current=8609.66, Potential=-80.00, Spike=1.0
+Neuron 1: Current=11488.92, Potential=-80.00, Spike=1.0
+Neuron 2: Current=14793.63, Potential=-80.00, Spike=1.0
+Neuron 3: Current=6096.40, Potential=-80.00, Spike=1.0
+Neuron 4: Current=16457.00, Potential=-80.00, Spike=1.0
+Neuron 5: Current=13852.83, Potential=-80.00, Spike=1.0
+Neuron 6: Current=11862.04, Potential=-80.00, Spike=1.0
+Neuron 7: Current=4144.84, Potential=-80.00, Spike=1.0
+Neuron 8: Current=-1893.39, Potential=-85.00, Spike=1.0
+Neuron 9: Current=-3929.83, Potential=-85.00, Spike=-1.0
+Step 21: [ 1.  1.  1.  1.  1.  1.  1.  1.  1. -1.]
+Neuron 0: Current=488.70, Potential=-80.00, Spike=1.0
+Neuron 1: Current=103.13, Potential=-80.00, Spike=1.0
+Neuron 2: Current=-1129.64, Potential=-85.00, Spike=1.0
+Neuron 3: Current=747.85, Potential=-80.00, Spike=1.0
+Neuron 4: Current=1669.46, Potential=-80.00, Spike=1.0
+Neuron 5: Current=-1864.45, Potential=-85.00, Spike=1.0
+Neuron 6: Current=833.94, Potential=-80.00, Spike=1.0
+Neuron 7: Current=1373.85, Potential=-80.00, Spike=1.0
+Neuron 8: Current=2027.49, Potential=-80.00, Spike=-1.0
+Neuron 9: Current=2590.28, Potential=-80.00, Spike=1.0
+Step 22: [ 1.  1.  1.  1.  1.  1.  1.  1. -1.  1.]
+Neuron 0: Current=2043.58, Potential=-80.00, Spike=1.0
+Neuron 1: Current=4448.41, Potential=-80.00, Spike=1.0
+Neuron 2: Current=-762.20, Potential=-85.00, Spike=1.0
+Neuron 3: Current=1142.58, Potential=-80.00, Spike=1.0
+Neuron 4: Current=2200.30, Potential=-80.00, Spike=1.0
+Neuron 5: Current=4948.89, Potential=-80.00, Spike=1.0
+Neuron 6: Current=3766.43, Potential=-80.00, Spike=1.0
+Neuron 7: Current=4452.83, Potential=-80.00, Spike=1.0
+Neuron 8: Current=1399.83, Potential=-80.00, Spike=1.0
+Neuron 9: Current=449.66, Potential=-80.00, Spike=1.0
+Step 23: [1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+Neuron 0: Current=5347.76, Potential=-80.00, Spike=1.0
+Neuron 1: Current=10361.48, Potential=-80.00, Spike=1.0
+Neuron 2: Current=7040.96, Potential=-80.00, Spike=1.0
+Neuron 3: Current=5137.44, Potential=-80.00, Spike=1.0
+Neuron 4: Current=11768.48, Potential=-80.00, Spike=1.0
+Neuron 5: Current=8739.95, Potential=-80.00, Spike=1.0
+Neuron 6: Current=8536.33, Potential=-80.00, Spike=1.0
+Neuron 7: Current=6352.77, Potential=-80.00, Spike=1.0
+Neuron 8: Current=595.76, Potential=-80.00, Spike=1.0
+Neuron 9: Current=-778.92, Potential=-85.00, Spike=1.0
+Step 24: [1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+Neuron 0: Current=5196.31, Potential=-80.00, Spike=1.0
+Neuron 1: Current=7447.92, Potential=-80.00, Spike=1.0
+Neuron 2: Current=8985.73, Potential=-80.00, Spike=1.0
+Neuron 3: Current=14336.34, Potential=-80.00, Spike=1.0
+Neuron 4: Current=2670.50, Potential=-80.00, Spike=1.0
+Neuron 5: Current=1366.86, Potential=-80.00, Spike=1.0
+Neuron 6: Current=1716.86, Potential=-80.00, Spike=1.0
+Neuron 7: Current=11455.05, Potential=-80.00, Spike=1.0
+Neuron 8: Current=-783.86, Potential=-80.00, Spike=-1.0
+Neuron 9: Current=1821.04, Potential=-80.00, Spike=1.0
+Step 25: [ 1.  1.  1.  1.  1.  1.  1.  1. -1.  1.]
+Neuron 0: Current=1796.09, Potential=-80.00, Spike=1.0
+Neuron 1: Current=-10059.53, Potential=-85.00, Spike=1.0
+Neuron 2: Current=-5645.50, Potential=-85.00, Spike=1.0
+Neuron 3: Current=1073.30, Potential=-80.00, Spike=1.0
+Neuron 4: Current=-6896.35, Potential=-85.00, Spike=1.0
+Neuron 5: Current=-8197.84, Potential=-85.00, Spike=1.0
+Neuron 6: Current=-1856.34, Potential=-85.00, Spike=1.0
+Neuron 7: Current=1182.68, Potential=-80.00, Spike=1.0
+Neuron 8: Current=2499.42, Potential=-80.00, Spike=1.0
+Neuron 9: Current=6136.63, Potential=-80.00, Spike=-1.0
+Step 26: [ 1.  1.  1.  1.  1.  1.  1.  1.  1. -1.]
+Neuron 0: Current=-1783.30, Potential=-85.00, Spike=1.0
+Neuron 1: Current=-441.54, Potential=-85.00, Spike=1.0
+Neuron 2: Current=-10360.83, Potential=-85.00, Spike=1.0
+Neuron 3: Current=-5446.84, Potential=-85.00, Spike=1.0
+Neuron 4: Current=-899.65, Potential=-85.00, Spike=1.0
+Neuron 5: Current=-632.63, Potential=-85.00, Spike=1.0
+Neuron 6: Current=1494.95, Potential=-80.00, Spike=1.0
+Neuron 7: Current=1274.03, Potential=-80.00, Spike=1.0
+Neuron 8: Current=4238.89, Potential=-80.00, Spike=1.0
+Neuron 9: Current=3158.83, Potential=-80.00, Spike=-1.0
+Step 27: [ 1.  1.  1.  1.  1.  1.  1.  1.  1. -1.]
+Neuron 0: Current=8124.13, Potential=-80.00, Spike=1.0
+Neuron 1: Current=1407.84, Potential=-80.00, Spike=1.0
+Neuron 2: Current=3995.97, Potential=-80.00, Spike=1.0
+Neuron 3: Current=5175.00, Potential=-80.00, Spike=1.0
+Neuron 4: Current=8991.27, Potential=-80.00, Spike=1.0
+Neuron 5: Current=3107.69, Potential=-80.00, Spike=1.0
+Neuron 6: Current=9126.75, Potential=-80.00, Spike=1.0
+Neuron 7: Current=5949.93, Potential=-80.00, Spike=1.0
+Neuron 8: Current=875.37, Potential=-80.00, Spike=-1.0
+Neuron 9: Current=2324.54, Potential=-80.00, Spike=-1.0
+Step 28: [ 1.  1.  1.  1.  1.  1.  1.  1. -1. -1.]
+Neuron 0: Current=15766.34, Potential=-80.00, Spike=1.0
+Neuron 1: Current=3901.74, Potential=-80.00, Spike=1.0
+Neuron 2: Current=7587.25, Potential=-80.00, Spike=1.0
+Neuron 3: Current=9567.83, Potential=-80.00, Spike=1.0
+Neuron 4: Current=14979.76, Potential=-80.00, Spike=1.0
+Neuron 5: Current=9926.84, Potential=-80.00, Spike=1.0
+Neuron 6: Current=17807.57, Potential=-80.00, Spike=1.0
+Neuron 7: Current=12252.61, Potential=-80.00, Spike=1.0
+Neuron 8: Current=-637.53, Potential=-80.00, Spike=1.0
+Neuron 9: Current=1273.78, Potential=-80.00, Spike=1.0
+Step 29: [1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+Neuron 0: Current=8427.15, Potential=-80.00, Spike=1.0
+Neuron 1: Current=-6668.04, Potential=-85.00, Spike=1.0
+Neuron 2: Current=5578.62, Potential=-80.00, Spike=1.0
+Neuron 3: Current=969.48, Potential=-80.00, Spike=1.0
+Neuron 4: Current=1837.33, Potential=-80.00, Spike=1.0
+Neuron 5: Current=4371.81, Potential=-80.00, Spike=1.0
+Neuron 6: Current=6532.86, Potential=-80.00, Spike=1.0
+Neuron 7: Current=-1418.39, Potential=-85.00, Spike=1.0
+Neuron 8: Current=-218.34, Potential=-80.00, Spike=-1.0
+Neuron 9: Current=1166.69, Potential=-80.00, Spike=-1.0
+Step 30: [ 1.  1.  1.  1.  1.  1.  1.  1. -1. -1.]
+Neuron 0: Current=14600.17, Potential=-80.00, Spike=1.0
+Neuron 1: Current=4151.40, Potential=-80.00, Spike=1.0
+Neuron 2: Current=7303.93, Potential=-80.00, Spike=1.0
+Neuron 3: Current=11416.06, Potential=-80.00, Spike=1.0
+Neuron 4: Current=7010.25, Potential=-80.00, Spike=1.0
+Neuron 5: Current=11667.56, Potential=-80.00, Spike=1.0
+Neuron 6: Current=14026.54, Potential=-80.00, Spike=1.0
+Neuron 7: Current=14036.85, Potential=-80.00, Spike=1.0
+Neuron 8: Current=-1873.92, Potential=-85.00, Spike=-1.0
+Neuron 9: Current=70.90, Potential=-80.00, Spike=1.0
+Step 31: [ 1.  1.  1.  1.  1.  1.  1.  1. -1.  1.]
+Neuron 0: Current=5017.05, Potential=-80.00, Spike=1.0
+Neuron 1: Current=6391.14, Potential=-80.00, Spike=1.0
+Neuron 2: Current=3751.20, Potential=-80.00, Spike=1.0
+Neuron 3: Current=8707.95, Potential=-80.00, Spike=1.0
+Neuron 4: Current=5688.60, Potential=-80.00, Spike=1.0
+Neuron 5: Current=2332.99, Potential=-80.00, Spike=1.0
+Neuron 6: Current=5008.89, Potential=-80.00, Spike=1.0
+Neuron 7: Current=9690.29, Potential=-80.00, Spike=1.0
+Neuron 8: Current=673.85, Potential=-80.00, Spike=1.0
+Neuron 9: Current=2010.83, Potential=-80.00, Spike=-1.0
+Step 32: [ 1.  1.  1.  1.  1.  1.  1.  1.  1. -1.]
+Neuron 0: Current=16245.96, Potential=-80.00, Spike=1.0
+Neuron 1: Current=14732.08, Potential=-80.00, Spike=1.0
+Neuron 2: Current=16819.31, Potential=-80.00, Spike=1.0
+Neuron 3: Current=17380.45, Potential=-80.00, Spike=1.0
+Neuron 4: Current=10665.21, Potential=-80.00, Spike=1.0
+Neuron 5: Current=20917.20, Potential=-80.00, Spike=1.0
+Neuron 6: Current=15767.37, Potential=-80.00, Spike=1.0
+Neuron 7: Current=18188.77, Potential=-80.00, Spike=1.0
+Neuron 8: Current=-4443.68, Potential=-85.00, Spike=-1.0
+Neuron 9: Current=-4305.45, Potential=-85.00, Spike=-1.0
+Step 33: [ 1.  1.  1.  1.  1.  1.  1.  1. -1. -1.]
+Neuron 0: Current=-13365.67, Potential=-85.00, Spike=1.0
+Neuron 1: Current=5059.32, Potential=-80.00, Spike=1.0
+Neuron 2: Current=-16435.61, Potential=-85.00, Spike=1.0
+Neuron 3: Current=-3818.16, Potential=-85.00, Spike=1.0
+Neuron 4: Current=-8232.95, Potential=-85.00, Spike=1.0
+Neuron 5: Current=-10891.98, Potential=-85.00, Spike=1.0
+Neuron 6: Current=-11251.26, Potential=-85.00, Spike=1.0
+Neuron 7: Current=2929.88, Potential=-80.00, Spike=1.0
+Neuron 8: Current=5791.73, Potential=-80.00, Spike=-1.0
+Neuron 9: Current=4751.66, Potential=-80.00, Spike=1.0
+Step 34: [ 1.  1.  1.  1.  1.  1.  1.  1. -1.  1.]
+Neuron 0: Current=12315.04, Potential=-80.00, Spike=1.0
+Neuron 1: Current=12497.99, Potential=-80.00, Spike=1.0
+Neuron 2: Current=13748.36, Potential=-80.00, Spike=1.0
+Neuron 3: Current=14406.01, Potential=-80.00, Spike=1.0
+Neuron 4: Current=8851.96, Potential=-80.00, Spike=1.0
+Neuron 5: Current=15790.21, Potential=-80.00, Spike=1.0
+Neuron 6: Current=11849.98, Potential=-80.00, Spike=1.0
+Neuron 7: Current=14622.17, Potential=-80.00, Spike=1.0
+Neuron 8: Current=-3153.13, Potential=-85.00, Spike=1.0
+Neuron 9: Current=-2974.03, Potential=-85.00, Spike=1.0
+Step 35: [1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+Neuron 0: Current=1528.75, Potential=-80.00, Spike=1.0
+Neuron 1: Current=4387.33, Potential=-80.00, Spike=1.0
+Neuron 2: Current=-428.65, Potential=-85.00, Spike=1.0
+Neuron 3: Current=12257.86, Potential=-80.00, Spike=1.0
+Neuron 4: Current=-10955.47, Potential=-85.00, Spike=1.0
+Neuron 5: Current=237.09, Potential=-80.00, Spike=1.0
+Neuron 6: Current=-4017.50, Potential=-85.00, Spike=1.0
+Neuron 7: Current=13604.32, Potential=-80.00, Spike=1.0
+Neuron 8: Current=32.30, Potential=-85.00, Spike=-1.0
+Neuron 9: Current=2696.06, Potential=-80.00, Spike=-1.0
+Step 36: [ 1.  1.  1.  1.  1.  1.  1.  1. -1. -1.]
+Neuron 0: Current=21232.62, Potential=-80.00, Spike=1.0
+Neuron 1: Current=14042.05, Potential=-80.00, Spike=1.0
+Neuron 2: Current=17759.39, Potential=-80.00, Spike=1.0
+Neuron 3: Current=23386.13, Potential=-80.00, Spike=1.0
+Neuron 4: Current=20545.83, Potential=-80.00, Spike=1.0
+Neuron 5: Current=14324.36, Potential=-80.00, Spike=1.0
+Neuron 6: Current=21417.06, Potential=-80.00, Spike=1.0
+Neuron 7: Current=23901.99, Potential=-80.00, Spike=1.0
+Neuron 8: Current=-3395.61, Potential=-80.00, Spike=1.0
+Neuron 9: Current=85.59, Potential=-80.00, Spike=1.0
+Step 37: [1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+Neuron 0: Current=6376.75, Potential=-80.00, Spike=1.0
+Neuron 1: Current=8814.33, Potential=-80.00, Spike=1.0
+Neuron 2: Current=6172.11, Potential=-80.00, Spike=1.0
+Neuron 3: Current=8242.63, Potential=-80.00, Spike=1.0
+Neuron 4: Current=11667.60, Potential=-80.00, Spike=1.0
+Neuron 5: Current=4574.57, Potential=-80.00, Spike=1.0
+Neuron 6: Current=8337.42, Potential=-80.00, Spike=1.0
+Neuron 7: Current=9155.27, Potential=-80.00, Spike=1.0
+Neuron 8: Current=1081.07, Potential=-80.00, Spike=-1.0
+Neuron 9: Current=1607.03, Potential=-80.00, Spike=-1.0
+Step 38: [ 1.  1.  1.  1.  1.  1.  1.  1. -1. -1.]
+Neuron 0: Current=10324.22, Potential=-80.00, Spike=1.0
+Neuron 1: Current=1472.23, Potential=-80.00, Spike=1.0
+Neuron 2: Current=4022.91, Potential=-80.00, Spike=1.0
+Neuron 3: Current=6508.83, Potential=-80.00, Spike=1.0
+Neuron 4: Current=6106.64, Potential=-80.00, Spike=1.0
+Neuron 5: Current=7045.44, Potential=-80.00, Spike=1.0
+Neuron 6: Current=10530.86, Potential=-80.00, Spike=1.0
+Neuron 7: Current=8623.96, Potential=-80.00, Spike=1.0
+Neuron 8: Current=-447.18, Potential=-80.00, Spike=-1.0
+Neuron 9: Current=985.74, Potential=-80.00, Spike=-1.0
+Step 39: [ 1.  1.  1.  1.  1.  1.  1.  1. -1. -1.]
+Final: [ 1.  1.  1.  1.  1.  1.  1.  1. -1. -1.]
+
+(venv) E:\S.I.M.O.N>python -m unittest test_neuron.py
+.F.F.F..
+======================================================================
+FAIL: test_adaptive_behavior (test_neuron.TestGeneralizedNeuron.test_adaptive_behavior)
+Test adaptive behavior for sensory and interneuron.
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\S.I.M.O.N\test_neuron.py", line 78, in test_adaptive_behavior
+    self.assertFalse(interneuron.is_excitatory)
+AssertionError: True is not false
+
+======================================================================
+FAIL: test_initialization (test_neuron.TestGeneralizedNeuron.test_initialization)
+Test neuron initialization for different types and regions.
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\S.I.M.O.N\test_neuron.py", line 30, in test_initialization
+    self.assertFalse(state["is_excitatory"])
+AssertionError: True is not false
+
+======================================================================
+FAIL: test_spike_output (test_neuron.TestGeneralizedNeuron.test_spike_output)
+Test excitatory and inhibitory spike outputs.
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\S.I.M.O.N\test_neuron.py", line 145, in test_spike_output
+    self.assertEqual(inhibitory_output, -1.0)
+AssertionError: 1.0 != -1.0
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.018s
+
+FAILED (failures=3)
+
+(venv) E:\S.I.M.O.N>python visualize_neuron.py
